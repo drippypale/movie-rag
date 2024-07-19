@@ -1,3 +1,9 @@
+# Demo
+**You can access the demo via this [Link](https://drippypale-movie-rag.hf.space/)**
+
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/2ab997fc-5e80-410b-8122-0ab3f251d2cf">
+
+
 # RAG Movie Recommender System
 By leveraging recent advances in natural language processing (NLP) and
 information retrieval techniques, we propose a new way to enhance movie
