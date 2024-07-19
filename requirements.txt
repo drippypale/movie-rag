@@ -1,0 +1,12 @@
+flair
+requests
+transformers
+datasets
+accelerate
+huggingface_hub
+chromadb
+cohere
+openai
+fasttext
+arabic-reshaper
+python-bidi
