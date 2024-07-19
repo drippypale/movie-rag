@@ -45,3 +45,9 @@ The **Overlap** metric measures the number of overlapping movies between the pre
 The **Accuracy by Genre** metric evaluates the performance of the models in recommending movies from different genres. We randomly selected 10 **genres** from the dataset and then calculated the accuracy of the models in recommending movies from these genres. Meaning that we calculated the percentage of movies from the selected genre that were recommended by the models.
 
 ![Accuracy by Genre](/benchmarking/acc-by-genre.png)
+
+# Contributors
+1. [Mohammad Mahdi Gharaguzlo](https://github.com/LaZBeaver)
+2. [Mohammad Asadi](https://github.com/MAsadi7)
+3. [Ramin Roshan](https://github.com/albino-crow)
+
